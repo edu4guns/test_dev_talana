@@ -78,7 +78,22 @@ Necesitamos que desarrolles un script o una API separada del proyecto safari, en
 # Para conocerte mejor
 
 1. Cuáles crees que son los aspectos más importantes al momento de hacer Code Review
+
+    Para mi el cod review significa: calidad, compromiso y trabajo en equipo,
+    es una etapa del proceso muy importante para seguir estándares y intercambiar conocimientos de programación como equipo, lo cual también hace que el programador sepa del compromiso de entregar un código con la mayor calidad posible porque va a ser evaluado.
+
 2. Has trabajado con control de versiones? Cuál ha sido el flujo que has utilizado? Por favor explicar.
+    He trabajado con SVN y GIT, adoptando un gitflow de las siguientes ramas:
+    productiva – preproductiva – qa – features individuales.
+
 3. Cuál ha sido tu experiencia utilizando herramientas fuera de desarrollo del código mismo? (AWS, GCP, VPS, Docker, etc.)
+
+    He participado en dos migraciones de servidores monolíticos hacia ambientes cloud (AWS), adquiriendo conocimientos en diversas herramientas como, EC2, S3, CloudPlatform, Jenkins, Docker, RDS y configuración de balanceadores de carga, ips elástica. 
+
 4. Tienes algún servicio en la nube favorito? Cuál y por qué?
+
+    Solo tengo experiencia en AWS y me ha gustado mucho no solo por sus herramientas sino lo practico que ha sido para mi hacer configuraciones como: balanceadores de carga, ip elásticas, alta disponibilidad, vpn entre sites.
+
 5. Has tenido experiencia con microservicios? En caso de que la tengas, podrías explicar por qué en ese caso fue mejor un microservicio que otro tipo de arquitectura?
+
+    Si tengo experiencia realizando integraciones autónomas a través de API, he utilizado Jenkins para quitarle responsabilidades de reporteria y jobs a la base de datos.
